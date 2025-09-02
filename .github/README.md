@@ -1,7 +1,7 @@
 [contact_tg]: https://t.me/makesomelayouts
 [contact_gmail]: mailto:makesomelayouts@gmail.com
 
-<a href="https://github.com/maxelonej" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
   <img align="right" src="./assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
 </a>
 
@@ -23,5 +23,5 @@
 
 <div>
 	<img src="https://img.shields.io/badge/Since-Nov%202023-brightgreen" alt="Since" />&nbsp;
-	<img src="https://komarev.com/ghpvc/?username=maxelonej&color=brightgreen&abbreviated=true" alt="Profile views" />&nbsp;
+	<img src="https://komarev.com/ghpvc/?username=makesomelayouts&color=brightgreen&abbreviated=true" alt="Profile views" />&nbsp;
 </div>
