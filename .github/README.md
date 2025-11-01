@@ -1,19 +1,38 @@
-<a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
-  <img align="right" src="./assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
-</a>
-
-<br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
-<div align="center">
-	<img height="140" width="360" src="https://github-readme-stats.vercel.app/api?username=makesomelayouts&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makesomelayouts&layout=compact&theme=tokyonight&no-frame=true&hide_border=true" />
-</div>
+<br />
 
-<br/>
+<table align="left">
+  <tr>
+	<th>overview</th>
+	<th>contact me</th>
+	<th>practice</th>
+	<!-- <th>content</th> -->
+  </tr>
+	<tr>
+		<td>
+      <ul>
+        <li><a href="https://makesomelayouts.vercel.app" target="_blank">portfolio</a></li>
+	  </ul>
+		</td>
+	</td>
+	  <td>
+		<ul>
+        <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li>
+		<li><a href="mailto:makesomelayuots@gmail.com" target="_blank">gmail</a></li>
+      </ul>
+    </td>
+			<td>
+		<ul>
+			<li><a href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li>
+			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank">codewars</a></li>
+		</ul>
+		</td>
+  </tr>
+</table>
 
-<div align="center">
-	<img width="120" src="https://img.shields.io/badge/Since-Nov%202023-brightgree&style=flat" alt="Since" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="136" src="https://komarev.com/ghpvc/?username=makesomelayouts&color=brightgreen&abbreviated=true" alt="Profile views" />&nbsp;
-</div>
+<a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
+	<img align="right" src="/assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
+</a>
+
+[comment]: # (TODO: recommended practice websites dropdown)
