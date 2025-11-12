@@ -16,17 +16,17 @@
 	  </ul>
 		</td>
 	</td> -->
-	  <td>
+	  <td><br />
 		<ul>
-        <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li>
+        <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li><br />
 		<li><a href="mailto:makesomelayuots@gmail.com" target="_blank">gmail</a></li>
-      </ul>
+      </ul><br />
     </td>
-			<td>
+			<td><br />
 		<ul>
-			<li><a href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li>
+			<li><a href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li><br />
 			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank">codewars</a></li>
-		</ul>
+		</ul><br />
 		</td>
   </tr>
 </table>
