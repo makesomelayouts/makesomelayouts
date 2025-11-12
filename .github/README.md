@@ -4,18 +4,18 @@
 
 <table align="left">
   <tr>
-	<th>overview</th>
-	<th>contact me</th>
-	<th>practice</th>
+	<!-- <th>overview</th> -->
+	<th>my contacts</th>
+	<th>my practice</th>
 	<!-- <th>content</th> -->
   </tr>
 	<tr>
-		<td>
+		<!-- <td>
       <ul>
         <li><a href="https://makesomelayouts.vercel.app" target="_blank">portfolio</a></li>
 	  </ul>
 		</td>
-	</td>
+	</td> -->
 	  <td>
 		<ul>
         <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li>
