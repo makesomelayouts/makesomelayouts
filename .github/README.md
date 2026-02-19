@@ -19,7 +19,8 @@
 	  <td><br />
 		<ul>
         <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li><br />
-		<li><a href="mailto:makesomelayuots@gmail.com" target="_blank">gmail</a></li>
+		<li><a href="mailto:makesomelayuots@gmail.com" target="_blank">gmail</a></li> <br />
+		<li><a href="https://discordapp.com/users/1427393478274584638" target="_blank">discord</a></li>
       </ul><br />
     </td>
 			<td><br />
