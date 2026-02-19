@@ -14,8 +14,8 @@
       <ul>
         <li><a href="https://makesomelayouts.vercel.app" target="_blank">portfolio</a></li>
 	  </ul>
-		</td>
-	</td> -->
+		</td> -->
+	</td>
 	  <td><br />
 		<ul>
         <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li><br />
@@ -25,14 +25,14 @@
 			<td><br />
 		<ul>
 			<li><a href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li><br />
-			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank">codewars</a></li>
+			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank"><img src="https://www.codewars.com/users/makesomelayouts/badges/micro" /></a></li>
 		</ul><br />
 		</td>
   </tr>
 </table>
 
-<!-- <a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
 	<img align="right" src="/assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
-</a> -->
+</a>
 
 [comment]: # (TODO: recommended practice websites dropdown)
