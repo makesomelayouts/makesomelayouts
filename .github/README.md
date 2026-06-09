@@ -1,4 +1,4 @@
-<img src="https://gh-trophy.cdnsoft.net/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://gh-trophy.cdnsoft.net/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" />
 
 <br />
 
