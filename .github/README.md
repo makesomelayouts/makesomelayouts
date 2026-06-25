@@ -32,8 +32,8 @@
   </tr>
 </table>
 
-<a href="https://github.com/makesomelayouts" target="_blank" rel="noopener noreferrer">
-	<img align="right" src="/assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub" />
+<a href="https://github.com/makesomelayouts?tab=repositories" target="_blank" rel="noopener noreferrer">
+	<img align="right" src="/assets/github_cat.gif" width="220" alt="GitHub Cat" title="My GitHub repositories" />
 </a>
 
 [comment]: # (TODO: recommended practice websites dropdown)
