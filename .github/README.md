@@ -1,4 +1,4 @@
-<img src="https://github-profile-trophy-unserori.vercel.app/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" />
+<img title="github trophies" src="https://github-profile-trophy-unserori.vercel.app/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="github trophies" />
 <br/>
 
 <table align="left">
@@ -6,7 +6,8 @@
 	<!-- <th>overview</th> -->
 	<th>my contacts</th>
 	<th>my practice 
-		<img align="right" width="16px" src="https://no-ai-icon.com/wp-content/uploads/2023/02/no-ai-icon-01.svg"/></th>
+		<img align="right" width="16px" title="no ai in my code" src="https://no-ai-icon.com/wp-content/uploads/2023/02/no-ai-icon-01.svg" alt="no AI in my code" />
+	</th>
 	<!-- <th>content</th> -->
   </tr>
 	<tr>
@@ -18,15 +19,15 @@
 	</td>
 	  <td><br />
 		<ul>
-        <li><a href="https://t.me/makesomelayouts" target="_blank">telegram</a></li><br />
-		<li><a href="mailto:makesomelayuots@gmail.com" target="_blank">gmail</a></li> <br />
-		<li><a href="https://discordapp.com/users/1427393478274584638" target="_blank">discord</a></li>
+        <li><a href="https://t.me/makesomelayouts" title="preferable" target="_blank">telegram</a></li><br />
+		<li><a href="mailto:makesomelayuots@gmail.com" title="also OK" target="_blank">gmail</a></li> <br />
+		<li><a href="https://discordapp.com/users/1427393478274584638" title="rare to see" target="_blank">discord</a></li>
       </ul><br />
     </td>
 			<td><br />
 		<ul>
-			<li><a href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li><br />
-			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank"><img src="https://www.codewars.com/users/makesomelayouts/badges/micro" /></a></li>
+			<li><a title="little frontending (my gestalts)" href="https://codepen.com/makesomelayouts" target="_blank">codepen</a></li><br />
+			<li><a href="https://www.codewars.com/users/makesomelayouts" target="_blank"><img title="algs" src="https://www.codewars.com/users/makesomelayouts/badges/micro" alt="codewars" /></a></li>
 		</ul><br />
 		</td>
   </tr>
