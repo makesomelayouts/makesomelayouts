@@ -1,12 +1,12 @@
 <img src="https://github-profile-trophy-unserori.vercel.app/?username=makesomelayouts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1" />
-
-<br />
+<br/>
 
 <table align="left">
   <tr>
 	<!-- <th>overview</th> -->
 	<th>my contacts</th>
-	<th>my practice</th>
+	<th>my practice 
+		<img align="right" width="16px" src="https://no-ai-icon.com/wp-content/uploads/2023/02/no-ai-icon-01.svg"/></th>
 	<!-- <th>content</th> -->
   </tr>
 	<tr>
