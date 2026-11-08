@@ -4,8 +4,8 @@
 <table align="left">
   <tr>
 	<!-- <th>overview</th> -->
-	<th>my contacts</th>
-	<th>my practice 
+	<th>socials</th>
+	<th>practices 
 		<img align="right" width="16px" title="no ai in my code" src="https://no-ai-icon.com/wp-content/uploads/2023/02/no-ai-icon-01.svg" alt="no AI in my code" />
 	</th>
 	<!-- <th>content</th> -->
